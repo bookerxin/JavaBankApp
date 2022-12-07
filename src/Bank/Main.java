@@ -15,6 +15,8 @@ public class Main {
 
         System.out.println(accounts.userAccounts);
 
+        credentialCheck.userLogin();
+
     }
 
 }
